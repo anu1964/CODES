@@ -1,0 +1,9 @@
+class circle_area
+{
+ public static void main(String args[])
+ {
+   int r=3;
+   double area;
+   area = 3*3*3.14; System.out.println("Area of circle="+area);
+  }
+}
