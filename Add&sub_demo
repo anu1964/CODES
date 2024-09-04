@@ -1,0 +1,10 @@
+class Add&sub_demo
+{
+ public static void main(String args[])
+ {
+   int a=2,b=1;
+   int sum=a+b;
+   int dif=a-b;
+   System.out.println("Addition="+sum+"Difference="+dif);
+  }
+}
